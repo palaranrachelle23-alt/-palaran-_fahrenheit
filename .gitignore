@@ -1,1 +1,9 @@
+# Compiled programs
+*.exe
+*.out
 
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
